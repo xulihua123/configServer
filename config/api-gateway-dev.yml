@@ -7,4 +7,4 @@ area-mapping:
         dataSourceName: zwjkDataSource
     zhejiang:
         dataCenterId: 2
-        dataSourceName: zwjkDataSource
+        dataSourceName: zwjk2DataSource
