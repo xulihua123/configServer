@@ -2,7 +2,7 @@ area-mapping:
     shanghai: 
         dataCenterId: 0
         dataSourceName: adminDataSource
-    gongdong:
+    guangdong:
         dataCenterId: 1
         dataSourceName: zwjkDataSource
     zhejiang:
